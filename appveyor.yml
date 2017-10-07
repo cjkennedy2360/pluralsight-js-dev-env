@@ -16,3 +16,6 @@ environment:
   # Output useful infro for debugging
   - node --version
   - npm --version
+  
+# dont build
+build: off
